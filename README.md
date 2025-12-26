@@ -89,10 +89,10 @@ Fungsi Utama:
 
 ### 2️⃣ Portal Warga
 
-![Portal Warga](img/DataWarga-admin.PNG)
+![Portal Warga](img/portal_warga.PNG)
 
 Deskripsi:
-Halaman dashboard warga merupakan halaman utama setelah warga berhasil login. Halaman ini menampilkan ringkasan informasi iuran dan menu navigasi utama.
+Halaman portal warga merupakan halaman utama setelah warga berhasil login. Halaman ini menampilkan ringkasan informasi iuran dan menu navigasi utama.
 
 Informasi yang Ditampilkan:
     . Identitas warga
@@ -193,6 +193,7 @@ Fungsi:
 ---
 
 > 📸 Semua screenshot diambil dari localhost (XAMPP) versi final project UTS Pemrograman Web 2  
+
 
 
 
