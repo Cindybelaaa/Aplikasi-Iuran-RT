@@ -83,9 +83,9 @@ Deskripsi:
 Halaman ini digunakan oleh warga untuk masuk ke dalam sistem dengan menggunakan akun masing-masing. Login diperlukan agar warga hanya dapat mengakses data iuran miliknya sendiri.
 
 Fungsi Utama:
-    . Input NIK warga
-    . Autentikasi data warga
-    . Mengarahkan warga ke portal/dashboard warga
+* Input NIK warga
+* Autentikasi data warga
+* Mengarahkan warga ke portal/dashboard warga
 
 ### 2️⃣ Portal Warga
 
@@ -95,9 +95,9 @@ Fungsi Utama:
 Halaman portal warga merupakan halaman utama setelah warga berhasil login. Halaman ini menampilkan ringkasan informasi iuran dan menu navigasi utama.
 
 **Informasi yang Ditampilkan:**
-    . Identitas warga
-    . Informasi status iuran
-    . Akses ke menu pembayaran dan riwayat
+   * Identitas warga
+   * Informasi status iuran
+   * Akses ke menu pembayaran dan riwayat
 
 
 ### 3️⃣ Halaman Login Admin
@@ -108,9 +108,9 @@ Deskripsi:
 Halaman login admin digunakan oleh pengurus RT untuk masuk ke sistem sebagai administrator.
 
 Fungsi Utama:
-    . Input username dan password admin
-    . Autentikasi admin
-    . Akses ke dashboard admin
+    * Input username dan password admin
+    * Autentikasi admin
+    * Akses ke dashboard admin
 
 ### 4️⃣ Dashboard Admin
 
@@ -120,9 +120,9 @@ Deskripsi:
 Dashboard admin menampilkan ringkasan data utama sistem iuran RT secara keseluruhan.
 
 Fitur:
-    . Ringkasan jumlah warga
-    . Informasi total pembayaran
-    . Akses cepat ke menu pengelolaan data
+    * Ringkasan jumlah warga
+    * Informasi total pembayaran
+    * Akses cepat ke menu pengelolaan data
 
 ### 5️⃣ Data Warga (Admin)
 
@@ -132,10 +132,10 @@ Deskripsi:
 Halaman ini digunakan oleh admin untuk mengelola data warga yang terdaftar dalam sistem.
 
 Fungsi:
-    . Menambah data warga
-    . Mengedit data warga
-    . Menghapus data warga
-    . Melihat daftar warga
+    * Menambah data warga
+    * Mengedit data warga
+    * Menghapus data warga
+    * Melihat daftar warga
 
 ### 6️⃣ Data Pembayaran (Admin)
 
@@ -145,9 +145,9 @@ Deskripsi:
 Halaman ini menampilkan seluruh data pembayaran iuran warga yang telah masuk ke sistem.
 
 Fitur:
-    . Melihat daftar pembayaran
-    . Mengetahui status pembayaran
-    . Verifikasi bukti pembayaran warga
+    * Melihat daftar pembayaran
+    * Mengetahui status pembayaran
+    * Verifikasi bukti pembayaran warga
 
 
 ### 7️⃣ Laporan Bulanan
@@ -158,9 +158,9 @@ Deskripsi:
 Halaman laporan bulanan digunakan untuk melihat dan mencetak laporan pembayaran iuran berdasarkan bulan tertentu.
 
 Fungsi:
-    . Rekap pembayaran bulanan
-    . Cetak laporan dalam bentuk PDF
-    . Monitoring pemasukan iuran
+    * Rekap pembayaran bulanan
+    * Cetak laporan dalam bentuk PDF
+    * Monitoring pemasukan iuran
 
 
 ### 8️⃣ Laporan Tahunan
@@ -172,9 +172,9 @@ Deskripsi:
 Halaman ini menyajikan laporan pembayaran iuran warga dalam satu periode tahun.
 
 Fungsi:
-    . Rekap pembayaran tahunan
-    . Analisis pemasukan iuran RT
-    . Export laporan ke PDF
+    * Rekap pembayaran tahunan
+    * Analisis pemasukan iuran RT
+    * Export laporan ke PDF
 
 
 ### 9️⃣ Laporan Tunggakan
@@ -186,13 +186,14 @@ Deskripsi:
 Halaman laporan tunggakan digunakan untuk melihat daftar warga yang belum melunasi iuran.
 
 Fungsi:
-    . Menampilkan warga dengan tunggakan
-    . Monitoring iuran yang belum dibayar
-    . Membantu penagihan oleh pengurus RT
+    * Menampilkan warga dengan tunggakan
+    * Monitoring iuran yang belum dibayar
+    * Membantu penagihan oleh pengurus RT
 
 ---
 
 > 📸 Semua screenshot diambil dari localhost (XAMPP) versi final project UTS Pemrograman Web 2  
+
 
 
 
