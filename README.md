@@ -87,7 +87,7 @@ Fungsi Utama:
     . Autentikasi data warga
     . Mengarahkan warga ke portal/dashboard warga
 
-### 2️⃣ Dashboard Warga
+### 2️⃣ Portal Warga
 
 ![Portal Warga](img/portal_warga.PNG)
 
@@ -193,6 +193,7 @@ Fungsi:
 ---
 
 > 📸 Semua screenshot diambil dari localhost (XAMPP) versi final project UTS Pemrograman Web 2  
+
 
 
 
