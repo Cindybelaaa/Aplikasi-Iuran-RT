@@ -77,7 +77,7 @@ Bagian ini menjelaskan tampilan antarmuka (UI) pada aplikasi Sistem Informasi Iu
 
 ### 1️⃣ Halaman Login Warga
 
-![Halaman Login Warga](img/login_warga.png)
+![Halaman Login Warga](img/login_warga.PNG)
 
 Deskripsi:
 Halaman ini digunakan oleh warga untuk masuk ke dalam sistem dengan menggunakan akun masing-masing. Login diperlukan agar warga hanya dapat mengakses data iuran miliknya sendiri.
@@ -89,7 +89,7 @@ Fungsi Utama:
 
 ### 2️⃣ Dashboard Warga
 
-![Dashboard Warga](img/portal_warga.png)
+![Dashboard Warga](img/portal_warga.PNG)
 
 Deskripsi:
 Halaman dashboard warga merupakan halaman utama setelah warga berhasil login. Halaman ini menampilkan ringkasan informasi iuran dan menu navigasi utama.
@@ -193,3 +193,4 @@ Fungsi:
 ---
 
 > 📸 Semua screenshot diambil dari localhost (XAMPP) versi final project UTS Pemrograman Web 2  
+
